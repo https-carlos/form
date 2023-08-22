@@ -1,7 +1,9 @@
 body {
-    background-color: rgb(99, 255, 247);
+    background-color: rgb(124, 115, 255);
 }
+
 h1 {
+    color: rgb(130, 252, 242);
     text-align: center;
 }
 .form {
@@ -9,6 +11,6 @@ h1 {
     margin: 0 auto;
     width: 1000px;
     text-align: center;
-    background-color: blueviolet;
+    background-color:rgba(130, 252, 242, 0.7);
     max-width: 100%;
 }
