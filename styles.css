@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(99, 255, 247);
+}
+h1 {
+    text-align: center;
+}
+.form {
+    font-size: 20px;
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+    background-color: blueviolet;
+    max-width: 100%;
+}
